@@ -1,0 +1,14 @@
+body{
+	background: black;
+	color: white;
+	padding-top: 50px;
+	text-align: center;
+}
+.stopwatch{
+	font-size: 80px;
+	padding: 10px;
+}
+button{
+	padding: 3px 5px;
+	margin: 3px 5px;
+}
